@@ -2,8 +2,6 @@
 
 Este dashboard oferece uma análise abrangente dos indicadores de desempenho (KPIs) relacionados ao estoque, abordando aspectos cruciais para a gestão eficiente do armazenamento. 
 
-https://app.powerbi.com/view?r=eyJrIjoiN2JjNGMxNzAtYjBiNC00N2NkLWJjZGYtMDFlOTNhYWQ5OTY0IiwidCI6IjMwOGE4MDgwLTY1NTMtNGJhNy04ZGJiLWIwOTQ3YzRhMjMzNSJ9
-
 Aqui estão alguns dos KPIs destacados:
 
 ## Faturamento Total e % do Ano Anterior
@@ -35,3 +33,5 @@ Por Área de Armazenagem: Apresenta a distribuição do valor em estoque em dife
 ## Faturamento ao Longo do Tempo
 
 Análise Temporal do Faturamento: Fornece uma representação visual do faturamento ao longo do tempo, permitindo a identificação de tendências, sazonalidades e padrões.
+
+https://app.powerbi.com/view?r=eyJrIjoiN2JjNGMxNzAtYjBiNC00N2NkLWJjZGYtMDFlOTNhYWQ5OTY0IiwidCI6IjMwOGE4MDgwLTY1NTMtNGJhNy04ZGJiLWIwOTQ3YzRhMjMzNSJ9
